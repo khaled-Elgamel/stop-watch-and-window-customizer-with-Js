@@ -1,0 +1,26 @@
+body{
+
+    margin-top: 60px;
+}
+
+button{
+    border-radius: 10px;
+    border: solid white;
+    margin-top: 10px;
+    margin-left: 550px;
+    width: 160px;
+    height: 50px;
+    background-color:rgba(128, 128, 128, 0.629);
+    font-size: large;
+
+}
+
+p{
+
+    margin-top: 10px;
+    margin-left: 570px;
+    width: 160px;
+    height: 50px;
+    font-size: large;
+
+}
